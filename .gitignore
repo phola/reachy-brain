@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+conv-app/
+mlx_models/
+*.wav
+*.aiff
+.python-version
+hello.py
