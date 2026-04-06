@@ -1,6 +1,6 @@
 # Fully local conversation app alternative (no cloud API)
 
-Hey! I built an open-source alternative to the default conversation app that runs entirely locally — no OpenAI API key needed.
+I built an open-source alternative to the default conversation app that runs entirely locally — no OpenAI API key needed.
 
 **How it works:**
 - STT: Whisper distil-large-v3 via MLX (~0.5s)
